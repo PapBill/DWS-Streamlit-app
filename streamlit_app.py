@@ -9,3 +9,9 @@ with st.expander("Dataset Overview"):
     df = pd.read_csv('https://raw.githubusercontent.com/PapBill/DWS-Streamlit-app/main/dataset.csv', encoding='latin1')
     st.write("Neapoli Dataset")
     st.write(df)
+
+with st.expander("Dataset Visualization"):
+    pass
+
+with st.expander("Property Price Prediction"):
+    pass
