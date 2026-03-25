@@ -1,4 +1,4 @@
- 🏚 Airbnb data scraping & and property price prediction
+ 🏚 Airbnb data scraping & property price prediction
 
 - Developed web scraping pipeline using Selenium to extract 500+ Airbnb listings data
 - Collected and stored structured data (pricing, location, reviews, features) in MongoDB
