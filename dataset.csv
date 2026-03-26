@@ -1,12 +1,181 @@
-price,guests,bedrooms,beds,baths,superhost,isfavourite,rating,reviews,host,Lat/Long
-� 361,2,1,1,1,TRUE,FALSE,4.54,28,Bill,Skip to content
-� 500,5,1,2,1,TRUE,TRUE,4.12,0,George,Skip to content
-� 511,4,1,2,1,TRUE,TRUE,3.55,2,Cj,Skip to content
-� 405,3,1,1,1,TRUE,FALSE,4.11,1,jogn,Skip to content
-388,4,1,2,1,TRUE,TRUE,4,22,Ant,Skip to content
-� 593,2,1,1,2,TRUE,FALSE,3.99,2,Michael,Skip to content
-� 329,3,1,1,2,TRUE,FALSE,4.6,14,Bill,Skip to content
-� 584,6,2,3,2,FALSE,FALSE,5,13,Shimon,Skip to content
-� 440,6,2,3,1,TRUE,FALSE,4.5,1,Anna,Skip to content
-� 385,4,1,1,2,TRUE,FALSE,3.5,24,Anna,Skip to content
-� 525,3,1,2,1,TRUE,FALSE,4.66,4,Jign,Skip to content
+price,guests,bedrooms,beds,baths,superhost,favourite,review_index,num_reviews,host,latitude,longitude,area
+317,3,1,2,1,TRUE,TRUE,Rated 4.92 out of 5 from 64 reviews.,64,Dimitrios,40.64397,22.95222,Neapoli Sikies
+281,3,1,2,1.5,TRUE,TRUE,Rated 4.9 out of 5 from 528 reviews.,528,Μαρία,40.63214,22.94413,Neapoli Sikies
+204,3,1,2,1,TRUE,FALSE,4.79 out of 5 average rating,13,Sotirios,40.6452,22.9433,Neapoli Sikies
+183,4,1,1,1,TRUE,FALSE,4.47 out of 5 stars from 109 reviews,109,Anastasia,40.64301,22.94989,Neapoli Sikies
+278,2,1,1,1,TRUE,TRUE,4.79 out of 5 average rating,546,Alexandra,40.6318,22.9417,Neapoli Sikies
+305,4,1,2,1,TRUE,TRUE,4.96 out of 5 average rating,153,Konstantinos,40.64423,22.93777,Neapoli Sikies
+346,6,2,2,1,TRUE,TRUE,4.92 out of 5 average rating,282,Aimilios,40.63584,22.95374,Neapoli Sikies
+285,2,1,1,1,TRUE,FALSE,4.86 out of 5 average rating,11,Guy,40.63751,22.95035,Neapoli Sikies
+328,2,1,1,1,TRUE,TRUE,4.93 out of 5 average rating,25,Tania,40.6372,22.9365,Neapoli Sikies
+246,2,1,2,1,TRUE,TRUE,4.75 out of 5 average rating,147,Eleni,40.6369,22.95202,Neapoli Sikies
+281,4,2,3,1,TRUE,FALSE,4.74 out of 5 average rating,34,Dimitrios,40.645,22.93799,Neapoli Sikies
+277,2,1,1,1,TRUE,FALSE,4.61 out of 5 average rating,54,Maria,40.63921,22.94975,Neapoli Sikies
+376,2,1,1,1,TRUE,TRUE,4.87 out of 5 average rating,173,My Street,40.63987,22.93722,Neapoli Sikies
+353,4,Studio,4,1,TRUE,FALSE,4.81 out of 5 average rating,105,Ioanna Apartments,40.6389,22.9362,Neapoli Sikies
+282,3,1,1,1,TRUE,FALSE,4.86 out of 5 average rating,9,Georgios,40.64087059776268,22.949991,Neapoli Sikies
+264,2,1,1,1,TRUE,TRUE,4.97 out of 5 average rating,71,Maria,40.641,22.9527,Neapoli Sikies
+329,3,1,1,1,TRUE,TRUE,4.87 out of 5 average rating,21,Room8 Suites,40.6367,22.9524,Neapoli Sikies
+392,2,1,1,1,TRUE,TRUE,4.92 out of 5 average rating,21,Miltos,40.63008,22.94939,Neapoli Sikies
+293,3,1,2,1.5,TRUE,TRUE,4.82 out of 5 average rating,222,Simos,40.6393,22.9443,Neapoli Sikies
+316,4,1,2,1,TRUE,FALSE,4.84 out of 5 average rating,97,Innovation,40.63692,22.93642,Neapoli Sikies
+234,2,1,2,1,TRUE,TRUE,4.65 out of 5 average rating,31,Athanasios,40.63547,22.95003,Neapoli Sikies
+267,3,1,2,1,TRUE,TRUE,4.9 out of 5 average rating,271,Kleanthi,40.638,22.94786,Neapoli Sikies
+394,4,1,2,1,TRUE,TRUE,4.73 out of 5 average rating,117,Mariana,40.63567,22.95231,Neapoli Sikies
+317,4,1,2,1,TRUE,TRUE,4.82 out of 5 average rating,232,Ntemi And Nick,40.63982,22.94939,Neapoli Sikies
+460,4,1,1,1,TRUE,TRUE,4.86 out of 5 average rating,145,Ioannis And Christina Tzekou,40.63695,22.94411,Neapoli Sikies
+226,3,1,2,1,TRUE,FALSE,4.73 out of 5 average rating,26,Chrysovalantou,40.63530153158962,22.95227,Neapoli Sikies
+305,4,1,2,1,TRUE,TRUE,4.96 out of 5 average rating,166,Konstantinos,40.64224,22.93783,Neapoli Sikies
+244,2,1,3,1,TRUE,FALSE,4.68 out of 5 stars from 68 reviews,68,George,40.6345,22.9484,Neapoli Sikies
+232,2,Studio,1,1,TRUE,TRUE,4.94 out of 5 average rating,144,Dimitra Loukia,40.6419,22.9611,Neapoli Sikies
+388,3,1,2,1,TRUE,TRUE,4.98 out of 5 average rating,152,Kelly,40.64059,22.95602,Neapoli Sikies
+283,4,1,4,1,TRUE,FALSE,4.86 out of 5 stars from 94 reviews,94,Paraskevi,40.64085,22.9358,Neapoli Sikies
+298,2,1,1,1,TRUE,FALSE,4.81 out of 5 average rating,102,Ioanna Apartments,40.6389,22.9362,Neapoli Sikies
+325,4,2,2,1,TRUE,TRUE,Rated 4.91 out of 5 from 264 reviews.,264,Δημητρης,40.6288,22.9528,Neapoli Sikies
+278,2,Studio,1,1,TRUE,FALSE,4.67 out of 5 average rating,83,Λένια,40.6363,22.9373,Neapoli Sikies
+280,2,Studio,1,1,TRUE,TRUE,Rated 4.72 out of 5 from 174 reviews.,174,Σπυρος,40.638,22.939,Neapoli Sikies
+275,3,1,1,1,TRUE,TRUE,4.9 out of 5 average rating,30,Άρη&Markella,40.6361,22.9519,Neapoli Sikies
+332,3,1,1,1,TRUE,TRUE,4.86 out of 5 average rating,40,Georgios,40.64108,22.94997,Neapoli Sikies
+277,2,1,1,1,TRUE,TRUE,4.79 out of 5 average rating,703,Alexandra,40.6318,22.9417,Neapoli Sikies
+529,4,1,3,1,TRUE,TRUE,4.89 out of 5 average rating,104,Ioannis,40.6368,22.9428,Neapoli Sikies
+310,3,1,1,1,TRUE,FALSE,4.84 out of 5 average rating,147,Innovation,40.6378,22.93699,Neapoli Sikies
+429,4,1,2,1,TRUE,TRUE,Rated 4.97 out of 5 from 413 reviews.,413,Eleni,40.6304,22.95053,Neapoli Sikies
+260,1,Shared,,,TRUE,TRUE,4.98 out of 5 average rating,116,,40.63754,22.94952,Neapoli Sikies
+328,3,1,1,1,TRUE,FALSE,4.79 out of 5 average rating,9,Αλέξανδρος,40.6403,22.94269,Neapoli Sikies
+412,4,1,2,1,TRUE,FALSE,4.79 out of 5 average rating,266,Vasilis,40.63621,22.93697,Neapoli Sikies
+605,2,1,2,1,TRUE,TRUE,Rated 4.83 out of 5 from 40 reviews.,40,Halu,40.6317,22.9451,Neapoli Sikies
+323,2,1,1,1,TRUE,TRUE,4.93 out of 5 average rating,235,George,40.6375,22.9438,Neapoli Sikies
+415,4,1,2,1,TRUE,FALSE,4.87 out of 5 average rating,138,My Street,40.63791,22.938,Neapoli Sikies
+318,4,1,2,1,TRUE,TRUE,4.89 out of 5 average rating,158,Κλεάνθης,40.64034,22.96084,Neapoli Sikies
+273,2,1,1,1,TRUE,TRUE,4.94 out of 5 average rating,43,Chrysoula,40.6386,22.963,Neapoli Sikies
+439,4,1,2,1,TRUE,TRUE,Rated 4.94 out of 5 from 221 reviews.,221,Erik,40.63384,22.94883,Neapoli Sikies
+380,3,1,2,1,TRUE,TRUE,4.85 out of 5 average rating,72,Georgios,40.63289,22.95132,Neapoli Sikies
+439,4,1,2,1,TRUE,TRUE,4.88 out of 5 average rating,169,Magdalena,40.63794,22.93946,Neapoli Sikies
+364,4,1,2,1,TRUE,TRUE,4.94 out of 5 average rating,116,Ioanna,40.6415,22.96,Neapoli Sikies
+320,4,1,2,1,TRUE,FALSE,4.84 out of 5 average rating,106,Innovation,40.63822,22.93614,Neapoli Sikies
+317,3,1,2,1,TRUE,TRUE,4.92 out of 5 average rating,64,Dimitrios,40.64397,22.95222,Neapoli Sikies
+362,4,1,2,1,TRUE,FALSE,4.85 out of 5 average rating,140,Cristina And Tomas Skgbnb,40.63205,22.94766,Neapoli Sikies
+366,3,1,1,1,TRUE,FALSE,4.72 out of 5 average rating,78,Apostolos,40.63474,22.94606,Neapoli Sikies
+310,2,1,1,1,TRUE,FALSE,4.84 out of 5 average rating,110,Innovation,40.63598,22.93638,Neapoli Sikies
+391,4,1,2,1,TRUE,FALSE,4.8 out of 5 stars from 180 reviews,180,Helias,40.6283,22.9497,Neapoli Sikies
+237,2,1,1,1,TRUE,TRUE,4.79 out of 5 average rating,578,Alexandra,40.6318,22.9417,Neapoli Sikies
+420,4,1,1,1,TRUE,TRUE,4.91 out of 5 average rating,209,⁨Π.38⁩,40.6316,22.9474,Neapoli Sikies
+315,2,Studio,1,1,TRUE,FALSE,4.81 out of 5 stars from 288 reviews,288,Paraskevi,40.6425,22.93687,Neapoli Sikies
+306,4,1,2,1,TRUE,FALSE,4.67 out of 5 average rating,182,John,40.63612,22.93576,Neapoli Sikies
+370,2,1,1,1,TRUE,TRUE,5.0 out of 5 average rating,92,Dimitris,40.6336,22.949,Neapoli Sikies
+308,6,2,1.5,,TRUE,FALSE,4.65 out of 5 average rating,34,Ioannis,40.63554,22.93814,Neapoli Sikies
+422,4,1,2,1,TRUE,TRUE,4.99 out of 5 average rating,18,George,40.6382,22.9502,Neapoli Sikies
+516,4,1,2,1,TRUE,TRUE,4.87 out of 5 average rating,128,My Street,40.63996,22.93889,Neapoli Sikies
+224,2,1,1,1,TRUE,TRUE,5.0 out of 5 average rating,6,Asteris,40.645717243023064,22.9517388,Neapoli Sikies
+447,4,1,2,1,TRUE,TRUE,4.92 out of 5 average rating,173,Maria,40.6365,22.9376,Neapoli Sikies
+262,2,1,1,1,TRUE,TRUE,4.85 out of 5 average rating,58,Georgios,40.63267,22.95116,Neapoli Sikies
+309,4,1,2,1,TRUE,FALSE,4.79 out of 5 average rating,812,Alexandra,40.6318,22.9417,Neapoli Sikies
+204,3,1,2,1,TRUE,FALSE,4.79 out of 5 average rating,13,Sotirios,40.6452,22.9433,Neapoli Sikies
+317,3,1,2,1,TRUE,TRUE,4.92 out of 5 average rating,64,Dimitrios,40.64397,22.95222,Neapoli Sikies
+390,2,1,1,1,TRUE,FALSE,4.85 out of 5 average rating,45,Cristina And Tomas Skgbnb,40.64198,22.94183,Neapoli Sikies
+183,4,1,1,1,TRUE,FALSE,4.47 out of 5 average rating,109,Anastasia,40.64301,22.94989,Neapoli Sikies
+265,2,1,1,1,TRUE,TRUE,4.91 out of 5 average rating,138,Chrysoula,40.6388,22.9625,Neapoli Sikies
+374,4,1,2,1,TRUE,FALSE,4.71 out of 5 average rating,239,Helias,40.62776,22.94873,Neapoli Sikies
+378,4,1,2,1,TRUE,FALSE,4.84 out of 5 average rating,134,Innovation,40.63672,22.93779,Neapoli Sikies
+410,4,1,2,1,TRUE,TRUE,4.9 out of 5 average rating,292,Έλενα,40.6379,22.9436,Neapoli Sikies
+482,3,1,1,1,TRUE,TRUE,4.97 out of 5 average rating,213,Athanasios,40.6411,22.9439,Neapoli Sikies
+276,3,1,2,1,TRUE,TRUE,4.84 out of 5 average rating,196,Zoitsa,40.64252,22.94417,Neapoli Sikies
+382,2,1,1,1,TRUE,FALSE,4.85 out of 5 average rating,323,Giorgos,40.6308,22.9515,Neapoli Sikies
+355,4,1,2,1,TRUE,TRUE,4.97 out of 5 average rating,72,Daniil,40.6378,22.9506,Neapoli Sikies
+267,3,1,2,1,TRUE,TRUE,4.9 out of 5 average rating,271,Kleanthi,40.638,22.94786,Neapoli Sikies
+381,4,1,2,1,TRUE,TRUE,5.0 out of 5 average rating,38,George,40.6359,22.9534,Neapoli Sikies
+294,2,1,1,1,TRUE,TRUE,4.84 out of 5 average rating,409,EscapeInStyle,40.6318,22.9417,Neapoli Sikies
+245,2,Studio,1,1,TRUE,TRUE,4.89 out of 5 average rating,206,Georgios,40.6407,22.93661,Neapoli Sikies
+437,6,2,3,1,TRUE,FALSE,4.76 out of 5 average rating,9,Evgeny,40.64085,22.93696,Neapoli Sikies
+522,4,1,2,1,TRUE,TRUE,4.93 out of 5 average rating,63,Ioannis,40.6324,22.9452,Neapoli Sikies
+264,2,1,1,1,TRUE,TRUE,4.97 out of 5 average rating,71,Maria,40.641,22.9527,Neapoli Sikies
+317,3,1,2,1,TRUE,TRUE,4.92 out of 5 average rating,64,Dimitrios,40.64397,22.95222,Neapoli Sikies
+267,3,1,2,1,TRUE,TRUE,4.9 out of 5 average rating,271,Kleanthi,40.638,22.94786,Neapoli Sikies
+204,3,1,2,1,TRUE,FALSE,4.79 out of 5 average rating,13,Sotirios,40.6452,22.9433,Neapoli Sikies
+265,2,1,1,1,TRUE,TRUE,4.94 out of 5 average rating,138,Chrysoula,40.6388,22.9625,Neapoli Sikies
+183,4,1,1,1,TRUE,FALSE,4.47 out of 5 average rating,109,Anastasia,40.64301,22.94989,Neapoli Sikies
+246,2,1,2,1,TRUE,TRUE,4.75 out of 5 average rating,147,Eleni,40.6369,22.95202,Neapoli Sikies
+232,2,Studio,1,1,TRUE,TRUE,4.94 out of 5 average rating,144,Dimitra Loukia,40.6419,22.9611,Neapoli Sikies
+264,2,1,1,1,TRUE,TRUE,4.97 out of 5 average rating,71,Maria,40.641,22.9527,Neapoli Sikies
+353,4,1,2,1,TRUE,FALSE,4.83 out of 5 average rating,8,Mike,40.6364,22.9547,Neapoli Sikies
+373,4,1,2,1,TRUE,TRUE,4.92 out of 5 average rating,108,Silvia,40.641,22.9454,Neapoli Sikies
+394,2,1,1,1,TRUE,TRUE,4.82 out of 5 average rating,182,Ntemi And Nick,40.6409,22.943,Neapoli Sikies
+257,2,1,1,1,TRUE,TRUE,4.96 out of 5 average rating,78,Dimitrios,40.63922,22.96257,Neapoli Sikies
+352,4,1,2,1,TRUE,TRUE,4.94 out of 5 average rating,34,Christos,40.6416,22.949,Neapoli Sikies
+438,2,1,1,1,TRUE,TRUE,5.0 out of 5 average rating,74,Eleni,40.6372,22.9467,Neapoli Sikies
+339,3,1,2,1,TRUE,TRUE,Rated 4.93 out of 5 from 15 reviews.,15,Dimitris,40.644,22.9402,Neapoli Sikies
+290,2,1,1,1,TRUE,TRUE,4.86 out of 5 average rating,35,Anastasia,40.63593786,22.9587517,Neapoli Sikies
+373,3,1,2,1,TRUE,TRUE,4.85 out of 5 average rating,100,Georgios,40.6337,22.9503,Neapoli Sikies
+464,2,1,1,1,TRUE,FALSE,4.86 out of 5 stars from 22 reviews,22,Tomas&Cristina! Skgbnb,40.6387,22.9485,Neapoli Sikies
+317,3,1,2,1,TRUE,TRUE,4.92 out of 5 average rating,64,Dimitrios,40.64397,22.95222,Neapoli Sikies
+267,3,1,2,1,TRUE,TRUE,Rated 4.9 out of 5 from 271 reviews.,271,Kleanthi,40.638,22.94786,Neapoli Sikies
+183,4,1,1,1,TRUE,FALSE,4.47 out of 5 average rating,109,Anastasia,40.64301,22.94989,Neapoli Sikies
+204,3,1,2,1,TRUE,FALSE,4.79 out of 5 average rating,13,Sotirios,40.6452,22.9433,Neapoli Sikies
+340,4,2,4,1,TRUE,TRUE,4.91 out of 5 average rating,121,Αθανάσιος,40.61522,22.96542,Neapoli Sikies
+246,2,1,2,1,TRUE,TRUE,4.75 out of 5 average rating,147,Eleni,40.6369,22.95202,Neapoli Sikies
+583,4,1,1,1,TRUE,FALSE,4.87 out of 5 average rating,183,My Street,40.6379,22.93827,Neapoli Sikies
+232,2,Studio,1,1,TRUE,TRUE,4.94 out of 5 average rating,144,Dimitra Loukia,40.6419,22.9611,Neapoli Sikies
+500,4,1,2,1,TRUE,TRUE,4.91 out of 5 average rating,71,Estia Premium Apartments By D.K.T,40.6423,22.9348,Neapoli Sikies
+359,4,1,2,1,TRUE,TRUE,4.89 out of 5 average rating,24,Dimitrios,40.6425,22.9296,Neapoli Sikies
+376,2,1,1,1,TRUE,TRUE,4.87 out of 5 average rating,173,My Street,40.63987,22.93722,Neapoli Sikies
+502,4,1,2,1,TRUE,TRUE,4.84 out of 5 average rating,85,Innovation,40.6382,22.9371,Neapoli Sikies
+277,2,1,1,1,TRUE,FALSE,4.8 out of 5 stars from 54 reviews,54,Maria,40.63921,22.94975,Neapoli Sikies
+244,2,1,3,1,TRUE,FALSE,4.78 out of 5 average rating,68,George,40.6345,22.9484,Neapoli Sikies
+264,2,1,1,1,TRUE,TRUE,4.97 out of 5 average rating,71,Maria,40.641,22.9527,Neapoli Sikies
+234,2,1,2,1,TRUE,TRUE,4.65 out of 5 average rating,31,Athanasios,40.63547,22.95003,Neapoli Sikies
+257,2,1,1,1,TRUE,TRUE,4.96 out of 5 average rating,78,Dimitrios,40.63922,22.96257,Neapoli Sikies
+407,4,1,1,1,TRUE,TRUE,5.0 out of 5 average rating,6,Vasiliki,40.6421,22.9609,Neapoli Sikies
+361,4,1,2,1,TRUE,FALSE,4.84 out of 5 average rating,156,Innovation,40.6381,22.93704,Neapoli Sikies
+317,3,1,2,1,TRUE,TRUE,4.92 out of 5 average rating,64,Dimitrios,40.64397,22.95222,Neapoli Sikies
+204,3,1,2,1,TRUE,FALSE,4.79 out of 5 average rating,13,Sotirios,40.6452,22.9433,Neapoli Sikies
+183,4,1,1,1,TRUE,FALSE,4.47 out of 5 average rating,109,Anastasia,40.64301,22.94989,Neapoli Sikies
+246,2,1,2,1,TRUE,TRUE,4.75 out of 5 average rating,147,Eleni,40.6369,22.95202,Neapoli Sikies
+267,3,1,2,1,TRUE,TRUE,4.9 out of 5 average rating,271,Kleanthi,NaN,NaN,Neapoli Sikies
+257,2,1,1,1,TRUE,TRUE,4.96 out of 5 average rating,78,Dimitrios,40.63922,22.96257,Neapoli Sikies
+298,2,1,1,1,TRUE,FALSE,4.81 out of 5 average rating,102,Ioanna Apartments,40.6389,22.9362,Neapoli Sikies
+357,2,1,2,1,TRUE,FALSE,4.72 out of 5 average rating,61,Apostolos,40.63409,22.94817,Neapoli Sikies
+285,2,1,1,1,TRUE,FALSE,4.86 out of 5 average rating,11,Guy,40.63751,22.95035,Neapoli Sikies
+285,2,1,1,1,TRUE,TRUE,4.97 out of 5 average rating,175,Ioanna,40.6388,22.9625,Neapoli Sikies
+364,4,1,2,1,TRUE,TRUE,4.99 out of 5 average rating,197,Andreas,40.6301,22.9667,Neapoli Sikies
+360,3,1,2,1,TRUE,TRUE,5.0 out of 5 average rating,9,Konstantinos,40.6413,22.9397,Neapoli Sikies
+249,2,1,1,1,TRUE,TRUE,4.87 out of 5 average rating,77,Γιωργος,40.6373,22.9545,Neapoli Sikies
+226,3,1,2,1,TRUE,FALSE,4.73 out of 5 average rating,26,Chrysovalantou,40.63530153,22.95227392,Neapoli Sikies
+277,2,1,1,1,TRUE,FALSE,4.61 out of 5 average rating,54,Maria,40.63921,22.94975,Neapoli Sikies
+503,4,2,2,2,TRUE,TRUE,5.0 out of 5 average rating,5,Christina,40.6311,22.948,Neapoli Sikies
+375,4,1,2,1,TRUE,TRUE,4.98 out of 5 average rating,52,Dimitris,40.6415,22.96,Neapoli Sikies
+317,3,1,2,1,TRUE,TRUE,4.92 out of 5 average rating,64,Dimitrios,40.64397,22.95222,Neapoli Sikies
+267,3,1,2,1,TRUE,TRUE,4.9 out of 5 average rating,271,Kleanthi,40.638,22.94786,Neapoli Sikies
+183,4,1,1,1,TRUE,FALSE,4.47 out of 5 average rating,109,Anastasia,40.64301,22.94989,Neapoli Sikies
+246,2,1,2,1,TRUE,TRUE,4.75 out of 5 average rating,147,Eleni,40.6369,22.95202,Neapoli Sikies
+204,3,1,2,1,TRUE,FALSE,4.79 out of 5 average rating,13,Sotirios,40.6452,22.9433,Neapoli Sikies
+298,2,1,1,1,TRUE,FALSE,4.8 out of 5 stars from 102 reviews,102,Ioanna Apartments,40.6389,22.9362,Neapoli Sikies
+439,4,1,2,1,TRUE,TRUE,Rated 4.88 out of 5 from 169 reviews.,169,Magdalena,40.63794,22.93946,Neapoli Sikies
+234,2,1,2,1,TRUE,TRUE,4.65 out of 5 average rating,31,Athanasios,40.63547,22.95003,Neapoli Sikies
+293,3,1,2,1.5,TRUE,TRUE,4.82 out of 5 average rating,222,Simos,40.6393,22.9443,Neapoli Sikies
+277,2,1,1,1,TRUE,TRUE,4.79 out of 5 average rating,703,Alexandra,40.6318,22.9417,Neapoli Sikies
+393,5,2,3,1,TRUE,TRUE,4.84 out of 5 average rating,8,Marinela,40.6473,22.9417,Neapoli Sikies
+317,4,1,2,1,TRUE,FALSE,4.85 out of 5 average rating,330,Sakis & Katerina,40.6287,22.9504,Neapoli Sikies
+317,4,1,2,1,TRUE,TRUE,4.82 out of 5 average rating,232,Ntemi And Nick,40.63982,22.94939,Neapoli Sikies
+277,2,1,1,1,TRUE,FALSE,4.61 out of 5 average rating,54,Maria,40.63921,22.94975,Neapoli Sikies
+460,4,1,1,1,TRUE,TRUE,Rated 4.86 out of 5 from 145 reviews.,145,Ioannis And Christina Tzekou,40.63695,22.94411,Neapoli Sikies
+433,2,1,1,1,TRUE,TRUE,5.0 out of 5 average rating,140,Efstathios,40.63741,22.95506,Neapoli Sikies
+352,2,1,2,1,TRUE,TRUE,4.95 out of 5 average rating,59,Alexandros,40.6347,22.9536,Neapoli Sikies
+318,5,2,3,1,TRUE,FALSE,4.85 out of 5 stars from 13 reviews,13,Jk,40.6436,22.9601,Neapoli Sikies
+317,3,1,2,1,TRUE,TRUE,4.92 out of 5 average rating,64,Dimitrios,40.64397,22.95222,Neapoli Sikies
+349,2,1,1,1,TRUE,TRUE,5.0 out of 5 average rating,8,Παυλος,40.6404,22.9364,Neapoli Sikies
+357,4,1,2,1,TRUE,TRUE,4.86 out of 5 average rating,50,Nandia,40.6327,22.9488,Neapoli Sikies
+246,2,1,2,1,TRUE,TRUE,4.75 out of 5 average rating,147,Eleni,40.6369,22.95202,Neapoli Sikies
+267,3,1,2,1,TRUE,TRUE,4.9 out of 5 average rating,271,Kleanthi,40.638,22.94786,Neapoli Sikies
+183,4,1,1,1,TRUE,FALSE,4.47 out of 5 average rating,109,Anastasia,40.64301,22.94989,Neapoli Sikies
+204,3,1,2,1,TRUE,FALSE,4.79 out of 5 average rating,13,Sotirios,40.6452,22.9433,Neapoli Sikies
+285,2,1,1,1,TRUE,FALSE,4.86 out of 5 average rating,11,Guy,40.63751,22.95035,Neapoli Sikies
+439,4,1,2,1,TRUE,TRUE,4.88 out of 5 average rating,169,Magdalena,40.63794,22.93946,Neapoli Sikies
+460,4,1,1,1,TRUE,TRUE,4.86 out of 5 average rating,145,Ioannis And Christina Tzekou,40.63695,22.94411,Neapoli Sikies
+226,3,1,2,1,TRUE,FALSE,4.73 out of 5 average rating,26,Chrysovalantou,40.63530153,22.95227391,Neapoli Sikies
+260,1,Shared,,,TRUE,TRUE,4.98 out of 5 average rating,116,,40.63754,22.94952,Neapoli Sikies
+234,2,1,2,1,TRUE,TRUE,4.65 out of 5 average rating,31,Athanasios,40.63547,22.95003,Neapoli Sikies
+277,2,1,1,1,TRUE,TRUE,4.79 out of 5 average rating,703,Alexandra,40.6318,22.9417,Neapoli Sikies
+298,2,1,1,1,TRUE,FALSE,4.81 out of 5 average rating,102,Ioanna Apartments,40.6389,22.9362,Neapoli Sikies
+273,2,1,1,1,TRUE,TRUE,4.94 out of 5 average rating,43,Chrysoula,40.6386,22.963,Neapoli Sikies
+244,2,1,3,1,TRUE,FALSE,4.78 out of 5 average rating,68,George,40.6345,22.9484,Neapoli Sikies
+277,2,1,1,1,TRUE,FALSE,4.61 out of 5 average rating,54,Maria,40.63921,22.94975,Neapoli Sikies
